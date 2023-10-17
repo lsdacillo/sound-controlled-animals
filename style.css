@@ -1,0 +1,29 @@
+body{
+    background-color: lightgreen;
+    font-family: 'Rajdhani', sans-serif;
+}
+.header_div {
+    font-family: 'Shadows Into Light', cursive;
+    color:black;
+    letter-spacing: 3px;
+    font-size: 15px;
+    font-family: bold;
+    background-color: aquamarine;
+}
+.main_div button{
+    font-family: 'Shadows Into Light', cursive;
+    margin-top:30px;
+    width:130px;
+    font-weight: bolder;
+    letter-spacing: 2px;
+}
+.copy_right_footer{
+    position:fixed;
+    color:black;
+    bottom:0;
+    width:100%;
+    background-color: rgb(190, 178, 178);
+    line-height: 5;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(151,149,149);
+}
